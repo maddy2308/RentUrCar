@@ -1,0 +1,13 @@
+Use cases:
+
+(1) The users need to login
+(2) They should be able to search based on their location of mobile phones or GeoLocation of the browser
+(3) They can compare different models avaialble and the prices
+(4) Sliders for adjusting dates, times and various other filters (like SUV, HachBack, Sedan, 2-seater etc.)
+(5) Select a model and send a message to the owner to book.
+(6) Once the owner accepts the request his car is blocked by the system and will only be unlocked 
+    if the person who booked releases it or if the due date is over.
+(7) Payment information is updated once the payment is done using the system.
+(8) Some method to help users authenticate the car owners like passport, SSN and the Driver's license to let the         system accept the owners.
+(9) The online booker can comment and rate the cars based on the condition of car and his experience with it.
+(10)The system also should be able to generate automatic emails as reminders for the upcoming cars to be picked and      reminder to give comments to the owner of the car.
